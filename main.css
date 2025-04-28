@@ -1,0 +1,11 @@
+#timer {
+  width: 100%;
+  margin: 15px;
+  font-size: 40px;
+}
+
+button {
+  width: 5%;
+  margin: 7px;
+  height: 40px;
+}
